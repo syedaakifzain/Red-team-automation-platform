@@ -201,6 +201,8 @@ Computer Science & Design Engineering Student
 * Advanced vulnerability scanning
 * User authentication system
 * Modern dashboard UI
+* Ad injection detection
+* Prompt injection detection
 
 ---
 
